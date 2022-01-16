@@ -15,3 +15,12 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 
 MultiparFormDataContent (referência)
 https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.multipartformdatacontent
+
+Cookie Authentication
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/cookie
+
+Como utilizar IHttpContextAccessor
+https://www.strathweb.com/2016/12/accessing-httpcontext-outside-of-framework-components-in-asp-net-core/
+
+Anúncio da MS indicando que o objeto para acessar o contexto Http não será mais injetado por padrão
+https://github.com/aspnet/Hosting/issues/793
